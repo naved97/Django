@@ -6,5 +6,5 @@ pipenv shell<br>
 
 <h1>Migrate and Static Files:</h1>
 
-python source/manage.py migrate<br>
-python source/manage.py collectstatic<br>
+python manage.py migrate<br>
+python manage.py collectstatic<br>
