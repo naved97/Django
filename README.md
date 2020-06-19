@@ -1,10 +1,10 @@
-Dependencies:
+<h1>Dependencies:</h1>
 
-pip install pipenv
-pipenv install
-pipenv shell
+pip install pipenv<br>
+pipenv install<br>
+pipenv shell<br>
 
-Migrate and Static Files:
+<h1>Migrate and Static Files:</h1>
 
-python source/manage.py migrate
-python source/manage.py collectstatic
+python source/manage.py migrate<br>
+python source/manage.py collectstatic<br>
